@@ -37,3 +37,4 @@ jobs:
             echo " - ${{ env.GIT_COMMIT_MESSAGE_SUBJECT }}"
             echo " - ${{ env.GIT_COMMIT_MESSAGE_SUBJECT_SANITIZED }}"
             echo " - ${{ env.GIT_COMMIT_MESSAGE_BODY }}"
+            echo " - ${{ env.GIT_COMMIT_MESSAGE_SUBJECT }}"
